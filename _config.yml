@@ -58,7 +58,7 @@ plugins:
 author:
   name: "Pride Kavumba"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "Tohoku University"
+  bio: "Tohoku University, Inui-Suzuki NLP Lab"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -108,3 +108,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+  - scope:
+      path: ""
+    values:
+      toc: true

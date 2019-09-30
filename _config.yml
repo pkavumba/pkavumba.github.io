@@ -89,6 +89,9 @@ analytics:
     tracking_id: "UA-68268899-5"
     anonymize_ip: true # true, false (default)
 
+atom_feed:
+  path: "" # blank (default) uses feed.xml
+
 defaults:
   # _posts
   - scope:

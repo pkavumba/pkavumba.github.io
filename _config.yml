@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Pride Kavumba profile.
 twitter_username: pkavumba
 github_username: pkavumba
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: mint
 search: false
 
 # Build settings
@@ -65,19 +65,19 @@ author:
       url: "https://pkavumba.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/pkavumba"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/pkavumba"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/pkavumba"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/pkavumba"
 
 # SEO Related
 google_site_verification: "OFPhlIz_R75kjlev0PBr0xAK6PJN76rJUXnKDZRwgMo"

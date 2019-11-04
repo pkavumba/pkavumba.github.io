@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 permalink: /
-title: Pride Kavumba
+title: ""
 ---
 
 # Research Topics

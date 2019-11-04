@@ -3,6 +3,7 @@ layout: single
 author_profile: true
 permalink: /
 title: ""
+excerpt: "I am a researcher in natural language understanding. I am interested in commonsense reasoning, causal reasoning, word embeddings, sentence embeddings and geometry (hyperbolic geometry)."
 ---
 
 # Research Topics

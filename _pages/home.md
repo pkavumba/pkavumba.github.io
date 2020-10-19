@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 permalink: /
 title: ""
-excerpt: "I am a researcher in natural language understanding. I am interested in commonsense reasoning, causal reasoning, word embeddings, sentence embeddings and geometry (hyperbolic geometry)."
+excerpt: "I am a researcher in natural language understanding. I am interested in commonsense reasoning, causal reasoning, language modeling, meta-learning and geometry (hyperbolic geometry)."
 ---
 
 # Research Topics
@@ -11,12 +11,16 @@ excerpt: "I am a researcher in natural language understanding. I am interested i
 - Natural Language processing, Computational Linguistics, Representational Learning
 - Commonsense reasoning
 - Causality, Causal Reasoning
-- Word and sentence embedding
+- Language modeling
 - Unsupervised learning
+- Learning to learn
 
 # Education
 
-2018 -- date: Master of Information Sciences  
+2020 -- date: Ph.D student at Tohoku University, NLP Lab,
+Advisor 乾 健太郎 / Kentaro Inui & 鈴木 潤 / Jun Suzuki
+
+2018 -- 2020: Master of Information Sciences  
 Graduate School of Information Sciences, Tohoku University  
 Advisor 乾 健太郎 / Kentaro Inui & 鈴木 潤 / Jun Suzuki
 

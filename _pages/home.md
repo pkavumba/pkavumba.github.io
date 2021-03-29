@@ -33,7 +33,7 @@ Pride Kavumba, Benjamin Heinzerling, Ana Brassard and Kentaro Inui. Learning to 
 
 - [paper]()
 
-Pride Kavumba, Naoya Inoue, Kentaro Inui. Exploring Supervised Learning of Hierarchical Event Embedding with Poincaré Embeddings. 言語処理学会第 27 回年次大会, March 2021.
+Pride Kavumba, Naoya Inoue, Kentaro Inui. None the wiser? Adding ``None'' Mitigates Superficial Cues in Multiple-Choice Benchmarks. 言語処理学会第 27 回年次大会, March 2021.
 
 - [paper]()
 

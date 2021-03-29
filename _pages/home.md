@@ -29,6 +29,14 @@ Department of Electrical and Electronic Engineering, The University of Zambia
 
 # Publications
 
+Pride Kavumba, Benjamin Heinzerling, Ana Brassard and Kentaro Inui. Learning to Learn to be Right for the Right Reasons. NAACL-HLT 2021.
+
+- [paper]()
+
+Pride Kavumba, Naoya Inoue, Kentaro Inui. Exploring Supervised Learning of Hierarchical Event Embedding with Poincaré Embeddings. 言語処理学会第 27 回年次大会, March 2021.
+
+- [paper]()
+
 Pride Kavumba, Naoya Inoue, Benjamin Heinzerling, Keshav Singh, Paul Reisert and Kentaro Inui. When Choosing Plausible Alternatives, Clever Hans can be Clever. Proceedings of the First Workshop on Commonsense Inference in Natural Language Processing, pp. 33-42, November 2019.
 
 - [paper](https://www.aclweb.org/anthology/D19-6004/)

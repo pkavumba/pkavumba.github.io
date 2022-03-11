@@ -29,7 +29,7 @@ Department of Electrical and Electronic Engineering, The University of Zambia
 
 # Publications
 
-Pride Kavumba, Ryo Takahashi, and Yasuke Oda. Are Prompt-based Models Clueless? To appear in Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL-2022), pp. x-y, May 2022.
+Pride Kavumba, Ryo Takahashi, and Yasuke Oda. Are Prompt-based Models Clueless? To appear in Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL-2022), pp. -, May 2022.
 
 - [paper]()
 

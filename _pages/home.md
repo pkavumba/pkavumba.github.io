@@ -29,19 +29,31 @@ Department of Electrical and Electronic Engineering, The University of Zambia
 
 # Publications
 
-Pride Kavumba, Benjamin Heinzerling, Ana Brassard and Kentaro Inui. Learning to Learn to be Right for the Right Reasons. NAACL-HLT 2021.
+Pride Kavumba, Ryo Takahashi, and Yasuke Oda. Are Prompt-based Models Clueless? To appear in Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL-2022), pp. x-y, May 2022.
 
 - [paper]()
 
-Pride Kavumba, Ana Brassard, Benjamin Heinzerling, Naoya Inoue and Kentaro Inui . None the wiser? Adding ``None'' Mitigates Superficial Cues in Multiple-Choice Benchmarks. 言語処理学会第 27 回年次大会, March 2021.
+Pride Kavumba, 高橋 諒, and 小田 悠介. プロンプトモデルは表面的手がかりを利用するか. 言語処理学会第 28 回年次大会, pp. -, March 2022.
 
 - [paper]()
 
-Pride Kavumba, Naoya Inoue, Benjamin Heinzerling, Keshav Singh, Paul Reisert and Kentaro Inui. When Choosing Plausible Alternatives, Clever Hans can be Clever. Proceedings of the First Workshop on Commonsense Inference in Natural Language Processing, pp. 33-42, November 2019.
+Ana Brassard, Benjamin Heinzerling, <u>Pride Kavumba</u>, and Kentaro Inui. COPA-SSE: Semi-Structured Explanations for Commonsense Reasoning. Workshop on Commonsense Reasoning and Knowledge Bases, October 2021.
+
+- [paper](https://openreview.net/forum?id=BigczdxQlGm)
+
+Pride Kavumba, Benjamin Heinzerling, Ana Brassard, and Kentaro Inui. Learning to Learn to be Right for the Right Reasons, Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT), pp.3890-3898, June 2021.
+
+- [paper](https://aclanthology.org/2021.naacl-main.304/)
+
+Pride Kavumba, Ana Brassard, Benjamin Heinzerling, Naoya Inoue, and Kentaro Inui . None the wiser? Adding ``None'' Mitigates Superficial Cues in Multiple-Choice Benchmarks. 言語処理学会第 27 回年次大会, March 2021.
+
+- [paper]()
+
+Pride Kavumba, Naoya Inoue, Benjamin Heinzerling, Keshav Singh, Paul Reisert, and Kentaro Inui. When Choosing Plausible Alternatives, Clever Hans can be Clever. Proceedings of the First Workshop on Commonsense Inference in Natural Language Processing, pp. 33-42, November 2019.
 
 - [paper](https://www.aclweb.org/anthology/D19-6004/)
 
-Keshav Singh, Paul Reisert, Naoya Inoue, Pride Kavumba and Kentaro Inui. Improving Evidence Detection by Leveraging Warrants. Proceedings of the Second Workshop on Fact Extraction and VERification (FEVER), pp. 57-62, November 2019.
+Keshav Singh, Paul Reisert, Naoya Inoue, <u>Pride Kavumba</u>, and Kentaro Inui. Improving Evidence Detection by Leveraging Warrants. Proceedings of the Second Workshop on Fact Extraction and VERification (FEVER), pp. 57-62, November 2019.
 
 - [paper](https://www.aclweb.org/anthology/D19-6610/)
 

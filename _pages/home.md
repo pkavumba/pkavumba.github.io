@@ -47,7 +47,7 @@ Pride Kavumba, Benjamin Heinzerling, Ana Brassard, and Kentaro Inui. Learning to
 
 Pride Kavumba, Ana Brassard, Benjamin Heinzerling, Naoya Inoue, and Kentaro Inui . None the wiser? Adding ``None'' Mitigates Superficial Cues in Multiple-Choice Benchmarks. 言語処理学会第 27 回年次大会, March 2021.
 
-- [paper]()
+- [paper](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/E1-3.pdf)
 
 Pride Kavumba, Naoya Inoue, Benjamin Heinzerling, Keshav Singh, Paul Reisert, and Kentaro Inui. When Choosing Plausible Alternatives, Clever Hans can be Clever. Proceedings of the First Workshop on Commonsense Inference in Natural Language Processing, pp. 33-42, November 2019.
 

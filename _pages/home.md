@@ -29,13 +29,17 @@ Department of Electrical and Electronic Engineering, The University of Zambia
 
 # Publications
 
-Pride Kavumba, Ryo Takahashi, and Yasuke Oda. Are Prompt-based Models Clueless? To appear in Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL-2022), pp. -, May 2022.
+Pride Kavumba, Ana Brassard, Benjamin Heinzerling and Kentaro Inui. Prompting for explanations improves Adversarial NLI. Is this true? {Yes} it is {true} because {it weakens superficial cues}. To appear In Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL), pp. – , May 2023.
 
 - [paper]()
+
+Pride Kavumba, Ryo Takahashi, and Yasuke Oda. Are Prompt-based Models Clueless? To appear in Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL-2022), pp. 2333–2352, May 2022.
+
+- [paper](https://aclanthology.org/2022.acl-long.166/)
 
 Pride Kavumba, 高橋 諒, and 小田 悠介. プロンプトモデルは表面的手がかりを利用するか. 言語処理学会第 28 回年次大会, pp. -, March 2022.
 
-- [paper]()
+- [paper pdf](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/E2-3.pdf)
 
 Ana Brassard, Benjamin Heinzerling, <u>Pride Kavumba</u>, and Kentaro Inui. COPA-SSE: Semi-Structured Explanations for Commonsense Reasoning. Workshop on Commonsense Reasoning and Knowledge Bases, October 2021.
 

@@ -29,19 +29,19 @@ Department of Electrical and Electronic Engineering, The University of Zambia
 
 # Publications
 
-Pride Kavumba, Ana Brassard, Benjamin Heinzerling and Kentaro Inui. Prompting for explanations improves Adversarial NLI. Is this true? {Yes} it is {true} because {it weakens superficial cues}. To appear In Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL), pp. – , May 2023.
+**Pride Kavumba**, Ana Brassard, Benjamin Heinzerling, and Kentaro Inui. 2023. Prompting for explanations improves Adversarial NLI. Is this true? {Yes} it is {true} because {it weakens superficial cues}. In Findings of the Association for Computational Linguistics: EACL 2023, pages 2165–2180, Dubrovnik, Croatia. Association for Computational Linguistics.
 
-- [paper]()
+- [paper](https://aclanthology.org/2023.findings-eacl.162/)
 
-Pride Kavumba, Ryo Takahashi, and Yasuke Oda. Are Prompt-based Models Clueless? To appear in Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL-2022), pp. 2333–2352, May 2022.
+**Pride Kavumba**, Ryo Takahashi, and Yusuke Oda. 2022. Are Prompt-based Models Clueless?. In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics, pages 2333–2352, Dublin, Ireland. Association for Computational Linguistics.
 
 - [paper](https://aclanthology.org/2022.acl-long.166/)
 
-Pride Kavumba, 高橋 諒, and 小田 悠介. プロンプトモデルは表面的手がかりを利用するか. 言語処理学会第 28 回年次大会, pp. -, March 2022.
+**Pride Kavumba**, 高橋 諒, and 小田 悠介. プロンプトモデルは表面的手がかりを利用するか. 言語処理学会第 28 回年次大会, pp. -, March 2022.
 
 - [paper pdf](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/E2-3.pdf)
 
-Ana Brassard, Benjamin Heinzerling, <u>Pride Kavumba</u>, and Kentaro Inui. COPA-SSE: Semi-Structured Explanations for Commonsense Reasoning. Workshop on Commonsense Reasoning and Knowledge Bases, October 2021.
+Ana Brassard, Benjamin Heinzerling, **Pride Kavumba**, and Kentaro Inui. COPA-SSE: Semi-Structured Explanations for Commonsense Reasoning. Workshop on Commonsense Reasoning and Knowledge Bases, October 2021.
 
 - [paper](https://openreview.net/forum?id=BigczdxQlGm)
 

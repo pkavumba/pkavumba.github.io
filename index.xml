@@ -1,1 +1,105 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pride Kavumba</title><link>https://pkavumba.github.io/</link><atom:link href="https://pkavumba.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Pride Kavumba</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Aug 2023 00:00:00 +0000</lastBuildDate><image><url>https://pkavumba.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Pride Kavumba</title><link>https://pkavumba.github.io/</link></image><item><title>scue</title><link>https://pkavumba.github.io/project/scue/</link><pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate><guid>https://pkavumba.github.io/project/scue/</guid><description>&lt;p>scue can reveal a dataset thats suspectable to the Clever Hans Effect. It can be used to analyze the effect of superficial cues in a dataset.&lt;/p></description></item><item><title>Prompting for explanations improves Adversarial NLI. Is this true? Yes it is true because it weakens superficial cues</title><link>https://pkavumba.github.io/publication/kavumba-etal-2023-prompting/</link><pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate><guid>https://pkavumba.github.io/publication/kavumba-etal-2023-prompting/</guid><description/></item><item><title>因果的 プロンプトによる NLI の敵対的ロバスト性の強化</title><link>https://pkavumba.github.io/publication/kavumba-anlp-2023/</link><pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate><guid>https://pkavumba.github.io/publication/kavumba-anlp-2023/</guid><description/></item><item><title>COPA-SSE: Semi-structured Explanations for Commonsense Reasoning</title><link>https://pkavumba.github.io/publication/brassard-etal-2022-copa/</link><pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate><guid>https://pkavumba.github.io/publication/brassard-etal-2022-copa/</guid><description/></item><item><title>Are Prompt-based Models Clueless?</title><link>https://pkavumba.github.io/publication/kavumba-etal-2022-prompt/</link><pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate><guid>https://pkavumba.github.io/publication/kavumba-etal-2022-prompt/</guid><description/></item><item><title>プロンプトモデルは表面的手がかりを 利用するか</title><link>https://pkavumba.github.io/publication/kavumba-anlp-2022/</link><pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate><guid>https://pkavumba.github.io/publication/kavumba-anlp-2022/</guid><description/></item><item><title>Learning to Learn to be Right for the Right Reasons</title><link>https://pkavumba.github.io/publication/kavumba-etal-2021-learning/</link><pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate><guid>https://pkavumba.github.io/publication/kavumba-etal-2021-learning/</guid><description/></item><item><title>None the wiser? Adding “None’’Mitigates Superficial Cues in Multiple-Choice Benchmarks</title><link>https://pkavumba.github.io/publication/kavumba-anlp-2021/</link><pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate><guid>https://pkavumba.github.io/publication/kavumba-anlp-2021/</guid><description/></item><item><title>Improving Evidence Detection by Leveraging Warrants</title><link>https://pkavumba.github.io/publication/singh-etal-2019-improving/</link><pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate><guid>https://pkavumba.github.io/publication/singh-etal-2019-improving/</guid><description/></item><item><title>When Choosing Plausible Alternatives, Clever Hans can be Clever</title><link>https://pkavumba.github.io/publication/kavumba-etal-2019-choosing/</link><pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate><guid>https://pkavumba.github.io/publication/kavumba-etal-2019-choosing/</guid><description/></item><item><title>Exploring Supervised Learning of Hierarchical Event Embedding with Poincaré Embeddings</title><link>https://pkavumba.github.io/publication/kavumba-anlp-2019/</link><pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate><guid>https://pkavumba.github.io/publication/kavumba-anlp-2019/</guid><description/></item><item><title/><link>https://pkavumba.github.io/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://pkavumba.github.io/admin/config.yml</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pride Kavumba</title>
+    <link>https://pkavumba.github.io/</link>
+      <atom:link href="https://pkavumba.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pride Kavumba</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pkavumba.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Pride Kavumba</title>
+      <link>https://pkavumba.github.io/</link>
+    </image>
+    
+    <item>
+      <title>scue</title>
+      <link>https://pkavumba.github.io/project/scue/</link>
+      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://pkavumba.github.io/project/scue/</guid>
+      <description>&lt;p&gt;scue can reveal a dataset thats suspectable to the Clever Hans Effect. It can be used to analyze the effect of superficial cues in a dataset.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Prompting for explanations improves Adversarial NLI. Is this true? Yes it is true because it weakens superficial cues</title>
+      <link>https://pkavumba.github.io/publication/kavumba-etal-2023-prompting/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://pkavumba.github.io/publication/kavumba-etal-2023-prompting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>因果的 プロンプトによる NLI の敵対的ロバスト性の強化</title>
+      <link>https://pkavumba.github.io/publication/kavumba-anlp-2023/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://pkavumba.github.io/publication/kavumba-anlp-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COPA-SSE: Semi-structured Explanations for Commonsense Reasoning</title>
+      <link>https://pkavumba.github.io/publication/brassard-etal-2022-copa/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://pkavumba.github.io/publication/brassard-etal-2022-copa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Are Prompt-based Models Clueless?</title>
+      <link>https://pkavumba.github.io/publication/kavumba-etal-2022-prompt/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://pkavumba.github.io/publication/kavumba-etal-2022-prompt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>プロンプトモデルは表面的手がかりを 利用するか</title>
+      <link>https://pkavumba.github.io/publication/kavumba-anlp-2022/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://pkavumba.github.io/publication/kavumba-anlp-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Learn to be Right for the Right Reasons</title>
+      <link>https://pkavumba.github.io/publication/kavumba-etal-2021-learning/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://pkavumba.github.io/publication/kavumba-etal-2021-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>None the wiser? Adding “None’’Mitigates Superficial Cues in Multiple-Choice Benchmarks</title>
+      <link>https://pkavumba.github.io/publication/kavumba-anlp-2021/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://pkavumba.github.io/publication/kavumba-anlp-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Evidence Detection by Leveraging Warrants</title>
+      <link>https://pkavumba.github.io/publication/singh-etal-2019-improving/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://pkavumba.github.io/publication/singh-etal-2019-improving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When Choosing Plausible Alternatives, Clever Hans can be Clever</title>
+      <link>https://pkavumba.github.io/publication/kavumba-etal-2019-choosing/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://pkavumba.github.io/publication/kavumba-etal-2019-choosing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Supervised Learning of Hierarchical Event Embedding with Poincaré Embeddings</title>
+      <link>https://pkavumba.github.io/publication/kavumba-anlp-2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://pkavumba.github.io/publication/kavumba-anlp-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

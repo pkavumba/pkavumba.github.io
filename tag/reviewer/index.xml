@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reviewer | Pride Kavumba</title>
+    <link>http://localhost:1313/tag/reviewer/</link>
+      <atom:link href="http://localhost:1313/tag/reviewer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Reviewer</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Reviewer</title>
+      <link>http://localhost:1313/tag/reviewer/</link>
+    </image>
+    
+    <item>
+      <title>Academic Acitivities</title>
+      <link>http://localhost:1313/activities/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/activities/</guid>
+      <description>&lt;h2 id=&#34;reviewer-activities&#34;&gt;Reviewer Activities&lt;/h2&gt;
+&lt;h3 id=&#34;2024&#34;&gt;2024&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;COLM&lt;/li&gt;
+&lt;li&gt;LXAI&lt;/li&gt;
+&lt;li&gt;ARR (February)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2023&#34;&gt;2023&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;ARR (December)&lt;/li&gt;
+&lt;li&gt;ARR (October)&lt;/li&gt;
+&lt;li&gt;ARR (August)&lt;/li&gt;
+&lt;li&gt;ARR (April)&lt;/li&gt;
+&lt;li&gt;FEVER Workshop&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2022&#34;&gt;2022&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;ARR (December)&lt;/li&gt;
+&lt;li&gt;ARR (October)&lt;/li&gt;
+&lt;li&gt;ARR (April)&lt;/li&gt;
+&lt;li&gt;ARR (February)&lt;/li&gt;
+&lt;li&gt;ARR (January)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2021&#34;&gt;2021&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;ACL&lt;/li&gt;
+&lt;li&gt;ARR (November, twice)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
